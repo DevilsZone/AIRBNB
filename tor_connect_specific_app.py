@@ -7,7 +7,7 @@ from fake_header import give_fake_headers
 def renew_connection():
     with Controller.from_port(port=9051) as controller:
         try:
-            controller.authenticate(password="AkasHKumar@1")
+            controller.authenticate(password="torProxy@123")
         except Exception as e:
             print("Error Here")
             print(e.args)
