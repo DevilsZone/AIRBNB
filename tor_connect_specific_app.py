@@ -30,3 +30,4 @@ def get_tor_session():
 
 get_tor_session()
 renew_connection()
+get_tor_session()
