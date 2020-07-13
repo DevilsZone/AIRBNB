@@ -26,3 +26,7 @@ def get_tor_session():
     print(session.get("http://httpbin.org/ip").text)
     print(requests.get("http://httpbin.org/ip").text)
     return session
+
+
+get_tor_session()
+renew_connection()
