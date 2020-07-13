@@ -1,0 +1,1 @@
+{"local":{"debug":false,"showCtxMenuItem":true,"showCountBadge":true,"showFullAddresses":false,"storage":"local","uuid":"50efaed8-d675-4bba-9576-764e074f9652","isTorBrowser":true}}
